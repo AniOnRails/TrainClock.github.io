@@ -1,0 +1,38 @@
+
+
+ h1
+   {
+    font-family: 'pacifico',cursive;
+    color: red;
+    text-align: center;
+   }
+
+   #demo1
+   {
+    font-family: 'Bree Serif', serif;
+    color: blue;
+    font-size: 20px;
+    text-align: center;
+   }
+   #demo
+   {
+     font-family: 'Do Hyeon', sans-serif;
+    color: #59ff1f;
+    font-size: 100px;
+    text-align: center;
+   }
+   #demo4
+   {
+    font-family: 'Parisienne', cursive;
+    color: yellow;
+    font-size: 20px;
+    text-align: center;
+   }
+   
+   #demo3
+   {
+    background-image: url("../images/loco.jpg");
+    background-size: 1600px 800px;
+    background-repeat: no-repeat;
+    
+   }
