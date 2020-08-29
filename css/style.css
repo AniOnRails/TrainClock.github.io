@@ -36,3 +36,22 @@
     background-repeat: no-repeat;
     
    }
+@media screen and (max-width:480px) {
+  #demo3 {
+     background-image: url("../images/loco.jpg");
+    background-size: 600px 800px;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+    
+  }
+}
+@media screen and (max-width:480px) {
+ #demo
+   {
+     font-family: 'Do Hyeon', sans-serif;
+    color: #59ff1f;
+    font-size: auto;
+    text-align: center;
+   }
+
+}
